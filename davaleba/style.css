@@ -1,0 +1,41 @@
+.container{
+    position: relative;
+width: 366px;
+height: 420px;
+left: 537px;
+top: 270px;
+background-color:#FAF4EF; ;
+}
+
+.child{
+    position: absolute;
+}
+
+.child img{
+    
+width: 299px;
+height: 299px;
+margin-top: 100px;
+
+}
+
+.child h2{
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 100%;
+    color: #4b4b4b;  
+    margin-left: 32px;
+}
+
+.child p{
+    font-family: 'DM Serif Display';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 100%;
+color:#737373 ;
+margin-left: 32px;
+}
+
